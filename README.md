@@ -78,11 +78,7 @@ A menu-driven utility script with system tools with some extra additionals
 
 
 
-\--chmod +x sys-tool.sh
+\--chmod +x sys-toolv2.sh
 
 \--./sys-toolv2.sh
-
-
-
-
 
